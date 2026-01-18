@@ -359,8 +359,8 @@
                                                     result_final.push({
                                                       'ID': rec[0].trim(),
                                                       'DESCRIPTION': rec[1].trim(),
-                                                      'ASSET_TYPE': rec[2].trim(),
-                                                      'COMPANY_CODE': rec[3].trim(),
+                                                      'H1': rec[2].trim(),
+                                                      'COMPANY': rec[3].trim(),
                                                       'ASSET_CLASS': rec[4].trim(),
                                                       'COST_CENTER': rec[5].trim(),
                                                       'CWIP': rec[6].trim(),
@@ -506,4 +506,5 @@
             shadowRoot.appendChild(script)
         });
     }
+
 })();             
