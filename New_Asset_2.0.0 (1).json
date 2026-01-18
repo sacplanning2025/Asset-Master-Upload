@@ -13,7 +13,7 @@
     {
       "kind": "main",
       "tag": "com-sacplanning2025-sap-sac-excel",
-      "url": "https://sacplanning2025.github.io/Excel-Upload/excel.js",
+      "url": "https://sacplanning2025.github.io/Excel-Upload/excel.js", 
       "integrity": "",
       "ignoreIntegrity": true
     },
@@ -149,4 +149,5 @@
       "description": "Specify the SAC Script that shall be triggered when the Export process is started."
     }
   }
+
 }
