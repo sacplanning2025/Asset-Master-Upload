@@ -362,8 +362,8 @@
                                                       'H1': rec[2].trim(),
                                                       'COMPANY': rec[3].trim(),
                                                       'ASSET_CLASS': rec[4].trim(),
-                                                      'COST_CENTER': rec[5].trim(),
-                                                      'CWIP': rec[6].trim(),
+                                                      'COSTCENTER': rec[5].trim(),
+                                                      'CAPITALIZED': rec[6].trim(),
                                                     });
                                                 }
                                             }
@@ -508,3 +508,4 @@
     }
 
 })();             
+
